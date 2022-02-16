@@ -1,0 +1,14 @@
+C:\Dev\BLASTOFF\obj\Debug\netcoreapp3.1\BLASTOFF.csproj.AssemblyReference.cache
+C:\Dev\BLASTOFF\obj\Debug\netcoreapp3.1\BLASTOFF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\BLASTOFF\obj\Debug\netcoreapp3.1\BLASTOFF.AssemblyInfoInputs.cache
+C:\Dev\BLASTOFF\obj\Debug\netcoreapp3.1\BLASTOFF.AssemblyInfo.cs
+C:\Dev\BLASTOFF\obj\Debug\netcoreapp3.1\BLASTOFF.csproj.CoreCompileInputs.cache
+C:\Dev\BLASTOFF\bin\Debug\netcoreapp3.1\BLASTOFF.exe
+C:\Dev\BLASTOFF\bin\Debug\netcoreapp3.1\BLASTOFF.deps.json
+C:\Dev\BLASTOFF\bin\Debug\netcoreapp3.1\BLASTOFF.runtimeconfig.json
+C:\Dev\BLASTOFF\bin\Debug\netcoreapp3.1\BLASTOFF.runtimeconfig.dev.json
+C:\Dev\BLASTOFF\bin\Debug\netcoreapp3.1\BLASTOFF.dll
+C:\Dev\BLASTOFF\bin\Debug\netcoreapp3.1\BLASTOFF.pdb
+C:\Dev\BLASTOFF\obj\Debug\netcoreapp3.1\BLASTOFF.dll
+C:\Dev\BLASTOFF\obj\Debug\netcoreapp3.1\BLASTOFF.pdb
+C:\Dev\BLASTOFF\obj\Debug\netcoreapp3.1\BLASTOFF.genruntimeconfig.cache
